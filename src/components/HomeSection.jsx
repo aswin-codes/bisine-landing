@@ -82,9 +82,6 @@ const HomeSection = () => {
         background: "linear-gradient(to top right, #112C78 0%, #099CE9 75%)",
       }}
     >
-      <div className="absolute top-0">
-        <img src={BG} className="h-screen" />
-      </div>
       <div className="absolute top-0 ">
         <img
           src={DotSphere}

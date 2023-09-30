@@ -24,9 +24,6 @@ const About = () => {
       className="min-h-screen h-fit relative p-5 sm:p-10 lg:p-16 grid grid-flow-row sm:grid-cols-2  lg:grid-cols-3 gap-5"
       style={{ backgroundColor: "#112C78" }}
     >
-      <div className="absolute top-0 hidden lg:block">
-        <img src={BG} className="h-screen" />
-      </div>
 
       <div
         id="features"

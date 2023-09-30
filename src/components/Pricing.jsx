@@ -26,9 +26,6 @@ const Pricing = () => {
       className="h-screen px-5 relative flex flex-col items-center py-16"
       style={{ backgroundColor: "#0E519D" }}
     >
-      <div className="absolute top-0 hidden lg:block">
-        <img src={BG} className="h-screen" />
-      </div>
       <h1 className="text-white font-semibold text-lg sm:text-3xl">
         Ready to unleash your business ?
       </h1>
