@@ -2,7 +2,6 @@
 import React, { useEffect } from "react";
 import ESC from "../assets/easy-shop-creation.png";
 import GCR from "../assets/global_customer_reach.jpg";
-import BG from "../assets/bg.png";
 import ST from "../assets/secure_transactions.png";
 import PT from "../assets/product_management.jpg";
 import RR from "../assets/review_rating.png";

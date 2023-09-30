@@ -8,7 +8,6 @@ import Man from "../assets/Man.png";
 import LinkedIn from "../assets/linkedin.png";
 import Instagram from "../assets/instagram.png";
 import ScrollReveal from "scrollreveal";
-import BG from "../assets/bg.png";
 
 const HomeSection = () => {
     useEffect(() => {

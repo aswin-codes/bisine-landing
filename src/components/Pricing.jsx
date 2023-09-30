@@ -1,5 +1,4 @@
 
-import BG from "../assets/bg.png";
 import Point from "../assets/point.png";
 import { useEffect } from "react";
 import ScrollReveal from "scrollreveal";
