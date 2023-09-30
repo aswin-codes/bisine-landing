@@ -23,12 +23,12 @@ const SampleUI = () => {
       <div className="h-full w-full ">
         <h1 className="text-3xl font-semibold">Sample UI</h1>
         <div
-          id="screens"
+          
           className="mt-5 h-full flex-col lg:flex-row flex justify-center gap-10 items-center"
         >
-          <img src={UI1} className="h-4/6 object-contain" />
-          <img src={UI2} className="h-4/6 object-contain" />
-          <img src={UI3} className="h-4/6 object-contain" />
+          <img id="screens" src={UI1} className="h-4/6 object-contain" />
+          <img id="screens" src={UI2} className="h-4/6 object-contain" />
+          <img id="screens" src={UI3} className="h-4/6 object-contain" />
         </div>
       </div>
     </section>
